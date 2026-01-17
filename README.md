@@ -1,5 +1,6 @@
 https://www.mediafire.com/file/fypyjfg5ok67fmp/Delta_executor_v2.704.apk/file?dkey=7j48s9gthfx&r=914
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/4LynxX/Lynx/refs/heads/main/LynxxMain.lua"))()
 
 # 🖥️ Remote Desktop Protocol
 
