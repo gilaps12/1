@@ -1,3 +1,7 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/VexoHub/VexoScript/refs/heads/main/loader.lua'))()
+
+
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/zhidanptrsyh/MengHub/refs/heads/main/FishIt_Lite.lua"))()
 
 
